@@ -2,7 +2,12 @@
 
 ## Tuner job for qbus framework
 
-### Coming Soon
+Unfinished Project
+
+Do what you want with this script, just dont modify and sell (Main reason i dont code anymore)
+
+
+<!-- ### Coming Soon
 Building off of doj-vehicles, This tuner job will allow players to have an illegal tuner job other than the civilan mechanic
 
 # About
@@ -22,4 +27,4 @@ Building off of doj-vehicles, This tuner job will allow players to have an illeg
 **[qb-target](https://github.com/BerkieBb/berkie-target)**
 
 **[qb-customs EDIT](https://github.com/dojwun)**
-
+ -->
